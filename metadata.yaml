@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: http://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13878#The-English-Orphans--Or-A-Home-in-the-New-World
 gutenberg_issued: '2004-10-26'
 gutenberg_type: Text
 identifiers:
